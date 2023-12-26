@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="p-4">
       <Button variant={"default"}>
-        button
+        Click me
       </Button>
     </div>
   )
